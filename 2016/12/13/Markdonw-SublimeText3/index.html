@@ -73,8 +73,6 @@
 
 
 
-  
-
 
   <link rel="alternate" href="/atom.xml" title="Tim" type="application/atom+xml" />
 
@@ -88,22 +86,16 @@
 
 
 
-<meta name="description" content="这里简单介绍如何通过插件让 Sublime Text 3  变成一个强大的 Markdown 编辑器. 当然你也可以使用 MarkdownPad2. 
-Package Control简述通过 Package Control 为 Sublime Text 3 安装插件
-安装如果已经安装果，可以跳过这一步，这里也只简单列举一下主要步骤，具体可以参考 Package Control Installati">
+<meta name="description" content="这里简单介绍如何通过插件让 Sublime Text 3  变成一个强大的 Markdown 编辑器. 当然你也可以使用 MarkdownPad2.">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Markdown 编辑器 Sublime Text 3">
 <meta property="og:url" content="https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/index.html">
 <meta property="og:site_name" content="Tim">
-<meta property="og:description" content="这里简单介绍如何通过插件让 Sublime Text 3  变成一个强大的 Markdown 编辑器. 当然你也可以使用 MarkdownPad2. 
-Package Control简述通过 Package Control 为 Sublime Text 3 安装插件
-安装如果已经安装果，可以跳过这一步，这里也只简单列举一下主要步骤，具体可以参考 Package Control Installati">
-<meta property="og:updated_time" content="2016-12-15T08:00:49.002Z">
+<meta property="og:description" content="这里简单介绍如何通过插件让 Sublime Text 3  变成一个强大的 Markdown 编辑器. 当然你也可以使用 MarkdownPad2.">
+<meta property="og:updated_time" content="2016-12-15T08:21:46.388Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Markdown 编辑器 Sublime Text 3">
-<meta name="twitter:description" content="这里简单介绍如何通过插件让 Sublime Text 3  变成一个强大的 Markdown 编辑器. 当然你也可以使用 MarkdownPad2. 
-Package Control简述通过 Package Control 为 Sublime Text 3 安装插件
-安装如果已经安装果，可以跳过这一步，这里也只简单列举一下主要步骤，具体可以参考 Package Control Installati">
+<meta name="twitter:description" content="这里简单介绍如何通过插件让 Sublime Text 3  变成一个强大的 Markdown 编辑器. 当然你也可以使用 MarkdownPad2.">
 
 
 
@@ -397,6 +389,7 @@ Package Control简述通过 Package Control 为 Sublime Text 3 安装插件
 
       
         <p>这里简单介绍如何通过插件让 <a href="http://www.sublimetext.com/" target="_blank" rel="external">Sublime Text 3</a>  变成一个强大的 Markdown 编辑器. 当然你也可以使用 <a href="http://www.markdownpad.com/" target="_blank" rel="external">MarkdownPad2</a>. </p>
+<a id="more"></a>
 <h2 id="Package-Control"><a href="#Package-Control" class="headerlink" title="Package Control"></a>Package Control</h2><h3 id="简述"><a href="#简述" class="headerlink" title="简述"></a>简述</h3><p>通过 <code>Package Control</code> 为 Sublime Text 3 安装插件</p>
 <h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>如果已经安装果，可以跳过这一步，这里也只简单列举一下主要步骤，具体可以参考 <a href="https://packagecontrol.io/installation" target="_blank" rel="external">Package Control Installation</a><br>通过 <code>ctrl+`` </code> 或者 <code>View &gt; Show Console</code>打开 Console 窗口，然后输入</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">import urllib.request,os,hashlib; h = &apos;df21e130d211cfc94d9b0905775a7c0f&apos; + &apos;1e3d39e33b79698005270310898eea76&apos;; pf = &apos;Package Control.sublime-package&apos;; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( &apos;http://packagecontrol.io/&apos; + pf.replace(&apos; &apos;, &apos;%20&apos;)).read(); dh = hashlib.sha256(by).hexdigest(); print(&apos;Error validating download (got %s instead of %s), please try manual install&apos; % (dh, h)) if dh != h else open(os.path.join( ipp, pf), &apos;wb&apos; ).write(by)</div></pre></td></tr></table></figure>
