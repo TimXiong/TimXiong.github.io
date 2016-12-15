@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://timxiong.github.io/"/>
-  <updated>2016-12-13T06:05:09.682Z</updated>
+  <updated>2016-12-15T07:10:00.084Z</updated>
   <id>https://timxiong.github.io/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown 编辑器 Sublime Text 3</title>
+    <link href="https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/"/>
+    <id>https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/</id>
+    <published>2016-12-14T07:26:19.000Z</published>
+    <updated>2016-12-15T07:10:00.084Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这里简单介绍如何通过插件让 &lt;a href=&quot;http://www.sublimetext.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sublime Text 3&lt;/a&gt;  变成一个强大的 Markdown 编辑器. 当然你也可以使用 &lt;a 
+    
+    </summary>
+    
+      <category term="Markdown" scheme="https://timxiong.github.io/categories/Markdown/"/>
+    
+      <category term="Code Editor" scheme="https://timxiong.github.io/categories/Markdown/Code-Editor/"/>
+    
+    
+      <category term="Markdown" scheme="https://timxiong.github.io/tags/Markdown/"/>
+    
+      <category term="Sublime Text" scheme="https://timxiong.github.io/tags/Sublime-Text/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 编辑器 Sublime Text 3</title>
+    <link href="https://timxiong.github.io/2016/12/13/My-Testing-Post/"/>
+    <id>https://timxiong.github.io/2016/12/13/My-Testing-Post/</id>
+    <published>2016-12-14T07:26:19.000Z</published>
+    <updated>2016-12-15T06:02:07.214Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Markdown 是 &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo Writing&lt;/a&gt; 的标准 格式，Markdown 常用的编辑工具是 &lt;a href=&quot;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
