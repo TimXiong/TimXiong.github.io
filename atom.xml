@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://timxiong.github.io/"/>
-  <updated>2016-12-15T08:21:46.388Z</updated>
+  <updated>2016-12-16T08:34:38.209Z</updated>
   <id>https://timxiong.github.io/</id>
   
   <author>
@@ -16,26 +16,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Markdown 编辑器 Sublime Text 3</title>
-    <link href="https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/"/>
-    <id>https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/</id>
-    <published>2016-12-14T07:26:19.000Z</published>
-    <updated>2016-12-15T08:21:46.388Z</updated>
+    <title>Markdown 编辑利器 Visual Studio Code</title>
+    <link href="https://timxiong.github.io/2016/12/15/Markdown-VisualStudioCode/"/>
+    <id>https://timxiong.github.io/2016/12/15/Markdown-VisualStudioCode/</id>
+    <published>2016-12-16T06:44:34.000Z</published>
+    <updated>2016-12-16T08:34:38.209Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;这里简单介绍如何通过插件让 &lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text 3&lt;/a&gt;  变成一个强大的 Markdown 编辑器. 当然你也可以使用 &lt;a href=&quot;http://www.markdownpad.com/&quot;&gt;MarkdownPad2&lt;/a&gt;. &lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Visual Studio Code&lt;/a&gt; 是微软推出的免费的轻量级编辑器，鉴于 VS IDE届老大的地位，VS Code 完全
     
     </summary>
     
-      <category term="Markdown" scheme="https://timxiong.github.io/categories/Markdown/"/>
+      <category term="Visual Studio Code" scheme="https://timxiong.github.io/categories/Visual-Studio-Code/"/>
     
-      <category term="Code Editor" scheme="https://timxiong.github.io/categories/Markdown/Code-Editor/"/>
+      <category term="Code Editor" scheme="https://timxiong.github.io/categories/Visual-Studio-Code/Code-Editor/"/>
     
     
       <category term="Markdown" scheme="https://timxiong.github.io/tags/Markdown/"/>
     
-      <category term="Sublime Text" scheme="https://timxiong.github.io/tags/Sublime-Text/"/>
+      <category term="Visual Studio Code" scheme="https://timxiong.github.io/tags/Visual-Studio-Code/"/>
     
   </entry>
   
@@ -56,15 +56,39 @@
   </entry>
   
   <entry>
+    <title>通过插件让 Sublime Text 3 支持 Markdown</title>
+    <link href="https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/"/>
+    <id>https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/</id>
+    <published>2016-12-14T07:26:19.000Z</published>
+    <updated>2016-12-16T08:02:37.220Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text&lt;/a&gt; 是一个跨平台的编辑神器，这里主要是介绍如何通过插件让强大的 Sublime Text 3 支持 Markdown .&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Markdown" scheme="https://timxiong.github.io/categories/Markdown/"/>
+    
+      <category term="Code Editor" scheme="https://timxiong.github.io/categories/Markdown/Code-Editor/"/>
+    
+    
+      <category term="Markdown" scheme="https://timxiong.github.io/tags/Markdown/"/>
+    
+      <category term="Sublime Text" scheme="https://timxiong.github.io/tags/Sublime-Text/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://timxiong.github.io/2016/12/12/hello-world/"/>
     <id>https://timxiong.github.io/2016/12/12/hello-world/</id>
     <published>2016-12-13T06:05:09.682Z</published>
-    <updated>2016-12-13T06:05:09.682Z</updated>
+    <updated>2016-12-16T06:20:54.078Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
