@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://timxiong.github.io/"/>
-  <updated>2016-12-16T08:34:38.209Z</updated>
+  <updated>2016-12-17T20:54:47.636Z</updated>
   <id>https://timxiong.github.io/</id>
   
   <author>
@@ -20,11 +20,11 @@
     <link href="https://timxiong.github.io/2016/12/15/Markdown-VisualStudioCode/"/>
     <id>https://timxiong.github.io/2016/12/15/Markdown-VisualStudioCode/</id>
     <published>2016-12-16T06:44:34.000Z</published>
-    <updated>2016-12-16T08:34:38.209Z</updated>
+    <updated>2016-12-17T20:54:47.636Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Visual Studio Code&lt;/a&gt; 是微软推出的免费的轻量级编辑器，鉴于 VS IDE届老大的地位，VS Code 完全
+      &lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; 是微软推出的免费的轻量级编辑器，鉴于 VS IDE届老大的地位，VS Code 完全有潜力成为新一代编辑神器。&lt;br&gt;VS Code 原生支持 Markdown，安装后就可以直接使用，这里介绍几个常用的功能。&lt;/p&gt;
     
     </summary>
     
@@ -36,6 +36,30 @@
       <category term="Markdown" scheme="https://timxiong.github.io/tags/Markdown/"/>
     
       <category term="Visual Studio Code" scheme="https://timxiong.github.io/tags/Visual-Studio-Code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过插件让 Sublime Text 3 支持 Markdown</title>
+    <link href="https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/"/>
+    <id>https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/</id>
+    <published>2016-12-14T07:26:19.000Z</published>
+    <updated>2016-12-17T20:55:16.428Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text&lt;/a&gt; 是一个跨平台的编辑神器，这里主要是介绍如何通过插件让强大的 Sublime Text 3 支持 Markdown .&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Markdown" scheme="https://timxiong.github.io/categories/Markdown/"/>
+    
+      <category term="Code Editor" scheme="https://timxiong.github.io/categories/Markdown/Code-Editor/"/>
+    
+    
+      <category term="Markdown" scheme="https://timxiong.github.io/tags/Markdown/"/>
+    
+      <category term="Sublime Text" scheme="https://timxiong.github.io/tags/Sublime-Text/"/>
     
   </entry>
   
@@ -52,30 +76,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>通过插件让 Sublime Text 3 支持 Markdown</title>
-    <link href="https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/"/>
-    <id>https://timxiong.github.io/2016/12/13/Markdonw-SublimeText3/</id>
-    <published>2016-12-14T07:26:19.000Z</published>
-    <updated>2016-12-16T08:02:37.220Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text&lt;/a&gt; 是一个跨平台的编辑神器，这里主要是介绍如何通过插件让强大的 Sublime Text 3 支持 Markdown .&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Markdown" scheme="https://timxiong.github.io/categories/Markdown/"/>
-    
-      <category term="Code Editor" scheme="https://timxiong.github.io/categories/Markdown/Code-Editor/"/>
-    
-    
-      <category term="Markdown" scheme="https://timxiong.github.io/tags/Markdown/"/>
-    
-      <category term="Sublime Text" scheme="https://timxiong.github.io/tags/Sublime-Text/"/>
     
   </entry>
   
